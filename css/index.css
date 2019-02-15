@@ -71,10 +71,14 @@ p {
 }
 
 header nav {
+    padding-left: 20px;
     display: inline-flex;
     width: 691px;
     vertical-align: top;
     margin-top: 35px;
+    padding-bottom: 20px;
+    align-items: flex-end;
+    justify-content: space-around;
   }
   
   header nav a {
@@ -165,7 +169,6 @@ header nav {
     align-items: center;
     justify-content: center;
 }
-
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
