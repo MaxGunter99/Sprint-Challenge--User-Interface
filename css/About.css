@@ -201,8 +201,8 @@ header nav {
   }
   
   .all-sections .box .button:hover {
-    background: black;
-    color: white;
+    background-image: url("/Users/voidchaser/Lambda/Sprint-Challenge--User-Interface/img/tumblr_mprxammtE91qfd4wao1_400.gif");
+    color: black;
   }
 
   .end h2 {
