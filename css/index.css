@@ -103,8 +103,9 @@ header nav {
     margin-right: 0;
   }
 
-  .top-section .jumbo {
+  .container .jumbo {
       display: inline-flex;
+      box-shadow: 10px 10px 5px grey;
   }
   
   
@@ -168,6 +169,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 .middle-content .boxes .box2 {
     width: 12.5%;
@@ -178,6 +180,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box3 {
@@ -189,6 +192,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box4 {
@@ -200,6 +204,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box5 {
@@ -211,6 +216,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box6 {
@@ -222,6 +228,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box7 {
@@ -233,6 +240,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box8 {
@@ -244,6 +252,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box9 {
@@ -255,6 +264,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .middle-content .boxes .box10 {
@@ -266,6 +276,7 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .bottom-content {

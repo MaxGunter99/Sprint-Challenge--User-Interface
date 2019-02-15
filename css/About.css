@@ -103,8 +103,12 @@ header nav {
     margin-right: 0;
   }
 
-  .top-section .jumbo {
+  .top-section .logo {
       display: inline-flex;
+  }
+
+  .top-section .picture .sunset {
+    box-shadow: 10px 10px 5px grey;
   }
 
 .container .about {
@@ -159,6 +163,11 @@ header nav {
     padding-top: 30px;
     
   }
+
+  .all-sections img {
+    box-shadow: 10px 10px 5px grey;
+  }
+
   .all-sections .box h3 {
       padding: 20px;
       margin-bottom: 20px;
